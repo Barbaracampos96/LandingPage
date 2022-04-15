@@ -1,2 +1,2 @@
 # LandingPage
-Barbara Campos
+Barbara Campos, no me salio el responsivo
